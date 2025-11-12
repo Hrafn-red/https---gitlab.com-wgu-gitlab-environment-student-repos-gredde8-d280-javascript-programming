@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../../../../Code/my-app/.vscode"
+		},
+		{
+			"path": "../../../../../../../../../Code/my-app/node_modules"
+		},
+		{
+			"path": "../../../../../../../../../Code/my-app/public"
+		},
+		{
+			"path": "../../../../../../../../../Code/my-app/src"
+		}
+	],
+	"settings": {}
+}
